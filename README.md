@@ -4,6 +4,7 @@ It's written by **C/C++** , **HTML5** and **JavaScript**.
 Until now, **HC TECH** have not decided to give out all the source code.  
 
 ## Used Encoding Methods  
+###### Notice: None of the following encoding algorithms are open-source.  
 **HC General Encode Method ( HC TECH )**  
 FILE --> FILE.enc  
 FILE.enc --> FILE  
