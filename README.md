@@ -1,4 +1,4 @@
-[English](https://github.com/Kiritow/Sleep-Recorder#sleep-recorder) | [中文(简体)](https://github.com/Kiritow/Sleep-Recorder#睡眠助手)    
+[English](#sleep-recorder) | [中文(简体)](#睡眠助手)    
 # Sleep-Recorder  
 Sleep Recorder is a recorder of your sleep. It records when and how long you sleep and gives analyzed data. It also gives you some health advice.  
 It's written by **C/C++** , **HTML5** and **JavaScript**.  
